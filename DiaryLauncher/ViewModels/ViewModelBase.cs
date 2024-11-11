@@ -1,6 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace DialyLauncher.ViewModels;
+namespace DiaryLauncher.ViewModels;
 
 public class ViewModelBase : ObservableObject
 {

@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using DialyLauncher.ViewModels;
+using DiaryLauncher.ViewModels;
 
-namespace DialyLauncher;
+namespace DiaryLauncher;
 
 public class ViewLocator : IDataTemplate
 {

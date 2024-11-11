@@ -1,4 +1,4 @@
-﻿namespace DialyLauncher.ViewModels;
+﻿namespace DiaryLauncher.ViewModels;
 
 public partial class MainWindowViewModel : ViewModelBase
 {

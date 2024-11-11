@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace DialyLauncher.Views;
+namespace DiaryLauncher.Views;
 
 public partial class MainWindow : Window
 {

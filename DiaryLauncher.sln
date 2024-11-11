@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialyLauncher", "DialyLauncher\DialyLauncher.csproj", "{7AEBB869-4485-4043-84F7-C3FCD376605A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryLauncher", "DiaryLauncher\DiaryLauncher.csproj", "{7AEBB869-4485-4043-84F7-C3FCD376605A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

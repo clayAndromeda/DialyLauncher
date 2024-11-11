@@ -3,10 +3,10 @@ using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Data.Core;
 using Avalonia.Data.Core.Plugins;
 using Avalonia.Markup.Xaml;
-using DialyLauncher.ViewModels;
-using DialyLauncher.Views;
+using DiaryLauncher.ViewModels;
+using DiaryLauncher.Views;
 
-namespace DialyLauncher;
+namespace DiaryLauncher;
 
 public partial class App : Application
 {
